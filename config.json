@@ -1,0 +1,6 @@
+{
+    "username":"<Your Minecraft Username>",
+    "apikey":"<Type /api new in Hypixel chat and copy and paste it here!>",
+    "port":25565,
+    "mcversion":"1.8.9"
+}
