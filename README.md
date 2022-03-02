@@ -17,8 +17,8 @@
 
 ------
 
-#### Hello, my name is CraftYun83, and I'm a primary student in the Taiwan
-#### Feel free to add me on any of the linked socials or check out my repos
+#### Hello, my name is CraftYun83, and I'm a middle school student in the Taiwan
+#### Feel free to add me on my discord!
 
 <br /> 
 
