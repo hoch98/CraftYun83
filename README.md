@@ -1,7 +1,4 @@
-<!--- Special thanks to my friend Sam for giving me permission to modify this config file for my personal use https://github.com/Scherso/Scherso--->
-<!--- If someone else wants to modify this config file for their personal use, please credit both Sam and myself --->
-
-<!--- Avatar --->
+<!--- https://github.com/Scherso/Scherso and https://github.com/Ethan-Francolla, they are very nice for letting me basically copy and paste their entire github profile--->
 <img 
      align="left" alt="Avatar" width="200px" 
           src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/server-icon-18-256.png" 
