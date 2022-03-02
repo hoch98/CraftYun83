@@ -30,18 +30,6 @@
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20100317150552">
 </a>
 
-<!--- C++ --->
-<a href="https://www.cplusplus.com/">
-    <img align="left" alt="C++" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-</a>
-
-<!--- C Sharp --->
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img align="left" alt="CSharp" width="30" height="30" 
-         src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-</a>
-
 <!--- HTML --->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="left" alt="HTML" width="30" height="30" 
@@ -66,18 +54,12 @@
          src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </a>
 
-<!--- Typescript --->
-<a href="https://www.typescriptlang.org/">
-    <img align="left" alt="TypeScript" width="30" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
-</a> 
-
 <br />
 
 ----
 
 <!--- GitHub Stats --->
-<a href="https://github.com/CraftYun83/Profile">
+<a href="https://github.com/CraftYun83">
     <img align="right" alt="Github Stats"
          src="https://github-readme-stats.vercel.app/api?username=CraftYun83&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
@@ -102,40 +84,16 @@
          src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
 </a>
 
-<!--- Vim --->
-<a href="https://www.vim.org/">
-    <img align="left" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png">
-</a>
-
-<!--- Spyder --->
-<a href="https://www.spyder-ide.org/">
-    <img align="left" height="30" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png">
-</a>
-
 <br />
 
 ----
 
 ### Applications & platforms I use
 
-<!--- Anaconda --->
-<a href="https://www.anaconda.com/">
-     <img align="left" alt="Anaconda" width"25px" height="25"
-          src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">
-</a>
-
 <!--- GitHub --->
 <a href="https://github.com/">
      <img align="left" alt="GitHub" width"25px" height="25"
           src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-</a>
-
-<!--- GitPod --->
-<a href="https://www.gitpod.io/">
-     <img align="left" alt="GitPod" width"25px" height="25"
-          src="https://community.gitpod.io/uploads/default/original/2X/4/4cfe88cf2b5a748b624fca9f50b781c5cc018d29.png">
 </a>
 
 <!--- TensorFlow --->
