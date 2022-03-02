@@ -7,7 +7,7 @@
           src="https://avatars.githubusercontent.com/u/86384943?v=4" 
 />
 
-### 🚀 Hey there, I'm an aspiring software engineer 🚀
+### 🖥️ Hey there, I'm an aspiring software engineer 🖥️
 
 <!--- Drawing the logos behind the page break, href is a link to the corresponding links. --->
 <a href="https://discordapp.com/users/398537836468633600">
