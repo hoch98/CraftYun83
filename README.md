@@ -4,7 +4,7 @@
 <!--- Avatar --->
 <img 
      align="left" alt="Avatar" width="200px" 
-          src="https://avatars.githubusercontent.com/u/86384943?v=4" 
+          src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/server-icon-18-256.png" 
 />
 
 ### 🖥️ Hey there, I'm an aspiring software engineer 🖥️
