@@ -10,9 +10,9 @@
 ### 🖥️ Hey there, I'm an aspiring software engineer 🖥️
 
 <!--- Drawing the logos behind the page break, href is a link to the corresponding links. --->
-<a href="https://discordapp.com/users/398537836468633600">
+<a href="https://discordapp.com/users/527875917037699072">
      <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-Firestorm%231000-5865F2?&style=flat-square&logo=discord&logoColor=white">
+          src="https://img.shields.io/badge/-CraftYun83%231822-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
 ------
@@ -77,9 +77,9 @@
 ----
 
 <!--- GitHub Stats --->
-<a href="https://github.com/Ethan-Francolla/Profile">
+<a href="https://github.com/CraftYun83/Profile">
     <img align="right" alt="Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=Ethan-Francolla&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
+         src="https://github-readme-stats.vercel.app/api?username=CraftYun83&&show_icons=true&title_color=fff&icon_color=a3a3a3&text_color=9f9f9f&bg_color=151515">
 </a>
 
 ### IDEs I use
