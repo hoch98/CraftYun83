@@ -9,7 +9,7 @@
 <!--- Drawing the logos behind the page break, href is a link to the corresponding links. --->
 <a href="https://discordapp.com/users/527875917037699072">
      <img align="left" alt="Discord"
-          src="https://img.shields.io/badge/-CraftYun83%231822-5865F2?&style=flat-square&logo=discord&logoColor=white">
+          src="https://img.shields.io/badge/-FourMC%231822-5865F2?&style=flat-square&logo=discord&logoColor=white">
 </a>
 
 ------
