@@ -14,7 +14,7 @@
 
 ------
 
-#### Hello, my name is FourMC, I'm a middle school student in the Taiwan, and I am currently working on a multiplayer 3D FPS Game using Three.JS!
+#### Hello, my name is FourMC, I'm a middle school student in the Taiwan, and I am full stack developer.
 #### Feel free to add me on my discord!
 
 <br /> 
