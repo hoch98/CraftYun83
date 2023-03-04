@@ -14,7 +14,7 @@
 
 ------
 
-#### Hello, my name is FourMC, I'm a middle school student in Taiwan, and I am full stack developer.
+#### Hello, my name is FourMC, I'm a student in South East Asia, and I am bad full stack developer.
 #### Feel free to add me on my discord!
 
 <br /> 
