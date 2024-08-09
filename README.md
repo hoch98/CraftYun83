@@ -1,6 +1,6 @@
 <!--- https://github.com/Scherso/Scherso and https://github.com/Ethan-Francolla, they are very nice for letting me basically copy and paste their entire github profile--->
 
-### 🖥️ Hey there, I'm an aspiring software engineer 🖥️
+### 🖥️ I'm a student based in South-East Asia  🖥️
 
 <!--- Drawing the logos behind the page break, href is a link to the corresponding links. --->
 <a href="https://discordapp.com/users/527875917037699072">
@@ -10,6 +10,8 @@
 
 ------
 
-#### Hello, my name is FourMC, and I am abad full stack developer.
-#### Feel free to add me on my discord!
+#### Hi, I make random things and upload them on Github for fun
+#### I usually code in Python, JS, and ocassionally Java
+
+#### I'm currently learning C++ to participate in programming competitions
 
